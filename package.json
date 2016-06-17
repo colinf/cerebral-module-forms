@@ -45,7 +45,8 @@
     "validate-commit-msg": "^2.5.0"
   },
   "peerDependencies": {
-    "cerebral": "^0.33.31 || ^0.34.0-0"
+    "cerebral": "^0.33.31 || ^0.34.0-0",
+    "react-bootstrap": "^0.29.4"
   },
   "config": {
     "commitizen": {
