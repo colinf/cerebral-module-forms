@@ -1,3 +1,14 @@
+## Changes in this fork:
+* Added wrapper for React Bootstrap FormControl component
+
+```js
+import FormControl from 'cerebral-module-forms/react-bootstrap/FormControl';
+
+<FormControl field={'path.to.field']}/>
+```
+
+
+
 # cerebral-module-forms
 Form handling for Cerebral
 
